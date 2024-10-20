@@ -7,6 +7,7 @@ Module Description
 ALU
 
 The ALU module accepts two 32-bit input operands (a and b) and a 3-bit function selector (f) to determine the operation to perform. It outputs a 32-bit result (y) and a zero flag (z) that indicates whether the result is zero.
+
 ![image](https://github.com/user-attachments/assets/b7a3022c-2be5-4dc5-888b-89e1a4d4628b)
 
 
