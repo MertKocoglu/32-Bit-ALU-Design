@@ -37,3 +37,5 @@ To simulate and test the ALU, include it in a Verilog testbench. It can be integ
 License
 This project is open source. Feel free to use, modify, and distribute the code.
 
+Edit: You should use subtractor for SLT operation.
+
